@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "promise-aplus-tests wechat-official-account/promisesA+-specification-with-100-lines-of-code"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^16.2.13",
+    "promises-aplus-tests": "^2.1.2",
+    "ts-node": "^10.1.0"
+  },
+  "dependencies": {
+    "jsdom": "^16.6.0"
+  }
+}
